@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>黑客帝国</title>
+  <icon>http://hkdgpresident.github.io/icon.png</icon>
+  <subtitle>黑客帝国</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hkdgpresident.github.io/"/>
+  <updated>2020-05-08T12:03:11.088Z</updated>
+  <id>http://hkdgpresident.github.io/</id>
+  
+  <author>
+    <name>黑客帝国</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Use Images in Typora</title>
+    <link href="http://hkdgpresident.github.io/2020/05/08/Use%20Images%20in%20Typora/"/>
+    <id>http://hkdgpresident.github.io/2020/05/08/Use%20Images%20in%20Typora/</id>
+    <published>2020-05-08T12:03:11.088Z</published>
+    <updated>2020-05-08T12:03:11.088Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;First-blog&quot;&gt;&lt;a href=&quot;#First-blog&quot; class=&quot;headerlink&quot; title=&quot;First blog&quot;&gt;&lt;/a&gt;First blog&lt;/h1&gt;&lt;h2 id=&quot;Images-in-Markdown&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://hkdgpresident.github.io/2020/05/06/hello-world/"/>
+    <id>http://hkdgpresident.github.io/2020/05/06/hello-world/</id>
+    <published>2020-05-06T14:44:38.643Z</published>
+    <updated>2020-05-06T14:44:38.643Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
