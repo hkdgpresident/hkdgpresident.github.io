@@ -1247,13 +1247,13 @@
         el: '#vcomments',
         appId: '09C2h0toa3M0cEDBCEwAbP9i-gzGzoHsz',
         appKey: 'swt9FNXwW0H4sNbKqOuiHWQL',
-        notify: 'false' === 'true',
+        notify: 'true' === 'true',
         verify: 'false' === 'true',
         visitor: 'true' === 'true',
         avatar: 'mm',
         pageSize: '10',
         lang: 'zh-cn',
-        placeholder: 'just go go'
+        placeholder: '留下你可爱的爪印叭~&lt;－biubiu－⊂(`ω´∩)'
     });
 </script>
 
@@ -1603,7 +1603,16 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
                 }
                 setInterval(siteTime, 1000);
             </script>
-			
+			<script>
+              $(document).ready(function(){
+                   //$('.vemoji-btn').text('😀');
+             $("#vcomments").on('click', 'span.vat',function(){
+            $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
+            $('textarea#veditor').focus();
+        })
+    })
+</script>
+
             
             <br>
             
